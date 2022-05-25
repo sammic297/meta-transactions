@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sammic297/meta-transactions/issues"
   },
-  "homepage": "https://github.com/sammic297/meta-transactions#readme"
+  "homepage": "https://github.com/sammic297/meta-transactions#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.6"
+  }
 }
